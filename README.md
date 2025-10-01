@@ -2,7 +2,7 @@
 
 A simple full-stack single page application (SPA) setup with **React**, **Node.js**, and **MariaDB**, containerized with **Docker Compose**.  
 
-Live site: [https://danylo.info](https://danylo.info)
+Live site:[ [https://danylo.info](https://danylo.info)](http://danylo.fun/)
 
 ---
 
